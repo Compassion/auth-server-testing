@@ -1,1 +1,1 @@
-auth-server-testing
+Prototype of an authentication server that can recieve tokens, validate them and then establish a My Account session.
